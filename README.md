@@ -1,2 +1,2 @@
-# hyperblox
+# hyperblog
 Repositorio Curso Platzi
